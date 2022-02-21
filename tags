@@ -1,0 +1,599 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/vh/Dev/tech-test/backend-test-2.0/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/4b54332/
+@google-cloud/firestore	docker-nodejs/delivery-service/Docker/app/package.json	/^      "@google-cloud\/firestore": "^4.10.0",$/;"	s	object:dependencies
+@google-cloud/firestore	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "@google-cloud\/firestore": "^4.10.0",$/;"	s	object:dependencies
+Ajv	docker-nodejs/delivery-service/src/frameworks/http/ajv.js	/^const Ajv = require("ajv");$/;"	C
+Ajv	docker-nodejs/ecommerce-service/src/frameworks/http/ajv.js	/^const Ajv = require("ajv");$/;"	C
+AjvErrors	docker-nodejs/delivery-service/src/frameworks/http/ajv.js	/^const AjvErrors = require('ajv-errors');$/;"	C
+AjvErrors	docker-nodejs/ecommerce-service/src/frameworks/http/ajv.js	/^const AjvErrors = require('ajv-errors');$/;"	C
+AnonymousFunction0eb381420100	docker-nodejs/ecommerce-service/tests/books/repositories/test-firestore-books-repository.js	/^describe("TestFirestoreBooksRepository", function() {$/;"	f
+AnonymousFunction0eb381420200	docker-nodejs/ecommerce-service/tests/books/repositories/test-firestore-books-repository.js	/^  beforeEach(async function() {$/;"	f	function:AnonymousFunction0eb381420100
+AnonymousFunction0eb381420300	docker-nodejs/ecommerce-service/tests/books/repositories/test-firestore-books-repository.js	/^  after(async function() {$/;"	f	function:AnonymousFunction0eb381420100
+AnonymousFunction0eb381420400	docker-nodejs/ecommerce-service/tests/books/repositories/test-firestore-books-repository.js	/^  it("should create and get a book", async function() {$/;"	f	function:AnonymousFunction0eb381420100
+AnonymousFunction0eb381420500	docker-nodejs/ecommerce-service/tests/books/repositories/test-firestore-books-repository.js	/^  it("should create and delete a book", async function() {$/;"	f	function:AnonymousFunction0eb381420100
+AnonymousFunction0eb381420600	docker-nodejs/ecommerce-service/tests/books/repositories/test-firestore-books-repository.js	/^  it("should create three books and get them all", async function() {$/;"	f	function:AnonymousFunction0eb381420100
+AnonymousFunction2a833a360100	docker-nodejs/delivery-service/tests/books/repositories/test-firestore-books-repository.js	/^describe("TestFirestoreBooksRepository", function() {$/;"	f
+AnonymousFunction2a833a360200	docker-nodejs/delivery-service/tests/books/repositories/test-firestore-books-repository.js	/^  beforeEach(async function() {$/;"	f	function:AnonymousFunction2a833a360100
+AnonymousFunction2a833a360300	docker-nodejs/delivery-service/tests/books/repositories/test-firestore-books-repository.js	/^  after(async function() {$/;"	f	function:AnonymousFunction2a833a360100
+AnonymousFunction2a833a360400	docker-nodejs/delivery-service/tests/books/repositories/test-firestore-books-repository.js	/^  it("should create and get a book", async function() {$/;"	f	function:AnonymousFunction2a833a360100
+AnonymousFunction2a833a360500	docker-nodejs/delivery-service/tests/books/repositories/test-firestore-books-repository.js	/^  it("should create and delete a book", async function() {$/;"	f	function:AnonymousFunction2a833a360100
+AnonymousFunction2a833a360600	docker-nodejs/delivery-service/tests/books/repositories/test-firestore-books-repository.js	/^  it("should create three books and get them all", async function() {$/;"	f	function:AnonymousFunction2a833a360100
+AnonymousFunction717093150100	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^describe("TestManageBooksUsecase", function() {$/;"	f
+AnonymousFunction717093150200	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^  it("should get all three books", async function() {$/;"	f	function:AnonymousFunction717093150100
+AnonymousFunction717093150300	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^  it("should create a book", async function() {$/;"	f	function:AnonymousFunction717093150100
+AnonymousFunction9b72cb090100	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^describe("TestManageBooksUsecase", function() {$/;"	f
+AnonymousFunction9b72cb090200	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^  it("should get all three books", async function() {$/;"	f	function:AnonymousFunction9b72cb090100
+AnonymousFunction9b72cb090300	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^  it("should create a book", async function() {$/;"	f	function:AnonymousFunction9b72cb090100
+AnonymousFunctionc5e0ef860100	docker-nodejs/ecommerce-service/tests/books/repositories/test-sequelize-books-repository.js	/^describe("TestSequelizeBooksRepository", function() {$/;"	f
+AnonymousFunctionc5e0ef860200	docker-nodejs/ecommerce-service/tests/books/repositories/test-sequelize-books-repository.js	/^  before(async function() {$/;"	f	function:AnonymousFunctionc5e0ef860100
+AnonymousFunctionc5e0ef860300	docker-nodejs/ecommerce-service/tests/books/repositories/test-sequelize-books-repository.js	/^  beforeEach(async function() {$/;"	f	function:AnonymousFunctionc5e0ef860100
+AnonymousFunctionc5e0ef860400	docker-nodejs/ecommerce-service/tests/books/repositories/test-sequelize-books-repository.js	/^  after(async function() {$/;"	f	function:AnonymousFunctionc5e0ef860100
+AnonymousFunctionc5e0ef860500	docker-nodejs/ecommerce-service/tests/books/repositories/test-sequelize-books-repository.js	/^  it("should create and get a book", async function() {$/;"	f	function:AnonymousFunctionc5e0ef860100
+AnonymousFunctionc5e0ef860600	docker-nodejs/ecommerce-service/tests/books/repositories/test-sequelize-books-repository.js	/^  it("should create and delete a book", async function() {$/;"	f	function:AnonymousFunctionc5e0ef860100
+AnonymousFunctionc5e0ef860700	docker-nodejs/ecommerce-service/tests/books/repositories/test-sequelize-books-repository.js	/^  it("should create three books and get them all", async function() {$/;"	f	function:AnonymousFunctionc5e0ef860100
+AnonymousFunctione1b0a87a0100	docker-nodejs/delivery-service/tests/books/repositories/test-sequelize-books-repository.js	/^describe("TestSequelizeBooksRepository", function() {$/;"	f
+AnonymousFunctione1b0a87a0200	docker-nodejs/delivery-service/tests/books/repositories/test-sequelize-books-repository.js	/^  before(async function() {$/;"	f	function:AnonymousFunctione1b0a87a0100
+AnonymousFunctione1b0a87a0300	docker-nodejs/delivery-service/tests/books/repositories/test-sequelize-books-repository.js	/^  beforeEach(async function() {$/;"	f	function:AnonymousFunctione1b0a87a0100
+AnonymousFunctione1b0a87a0400	docker-nodejs/delivery-service/tests/books/repositories/test-sequelize-books-repository.js	/^  after(async function() {$/;"	f	function:AnonymousFunctione1b0a87a0100
+AnonymousFunctione1b0a87a0500	docker-nodejs/delivery-service/tests/books/repositories/test-sequelize-books-repository.js	/^  it("should create and get a book", async function() {$/;"	f	function:AnonymousFunctione1b0a87a0100
+AnonymousFunctione1b0a87a0600	docker-nodejs/delivery-service/tests/books/repositories/test-sequelize-books-repository.js	/^  it("should create and delete a book", async function() {$/;"	f	function:AnonymousFunctione1b0a87a0100
+AnonymousFunctione1b0a87a0700	docker-nodejs/delivery-service/tests/books/repositories/test-sequelize-books-repository.js	/^  it("should create three books and get them all", async function() {$/;"	f	function:AnonymousFunctione1b0a87a0100
+Aspects to be evaluated	README.md	/^## Aspects to be evaluated$/;"	s	chapter:Enviame's Backend Test
+Aspects to be ignored	README.md	/^## Aspects to be ignored$/;"	s	chapter:Enviame's Backend Test
+Autores ✒️	docker-nodejs/README.md	/^### Autores ✒️$/;"	S	section:Project Name: Python Clean Architecture Microservices Templates""Installation and execution
+Autores ✒️	docker-python/README.md	/^### Autores ✒️$/;"	S	section:Project Name: Python Clean Architecture Microservices Templates""Installation and execution
+BOOK_CREATION_VALIDATABLE_FIELDS	docker-python/delivery-service/src/books/http/validation/book_validatable_fields.py	/^BOOK_CREATION_VALIDATABLE_FIELDS = {$/;"	v
+BOOK_CREATION_VALIDATABLE_FIELDS	docker-python/ecommerce-service/src/books/http/validation/book_validatable_fields.py	/^BOOK_CREATION_VALIDATABLE_FIELDS = {$/;"	v
+BOOK_UPDATE_VALIDATABLE_FIELDS	docker-python/delivery-service/src/books/http/validation/book_validatable_fields.py	/^BOOK_UPDATE_VALIDATABLE_FIELDS = {$/;"	v
+BOOK_UPDATE_VALIDATABLE_FIELDS	docker-python/ecommerce-service/src/books/http/validation/book_validatable_fields.py	/^BOOK_UPDATE_VALIDATABLE_FIELDS = {$/;"	v
+Before you begin	README.md	/^## Before you begin$/;"	s	chapter:Enviame's Backend Test
+Book	docker-nodejs/delivery-service/src/books/entities/book.js	/^class Book {$/;"	c
+Book	docker-nodejs/delivery-service/src/books/http/books-router.js	/^const Book = require('..\/entities\/book');$/;"	C
+Book	docker-nodejs/delivery-service/src/books/repositories/firestore-books-repository.js	/^const Book = require('..\/entities\/book');$/;"	C
+Book	docker-nodejs/delivery-service/src/books/usecases/manage-books-usecase.js	/^const Book = require('..\/entities\/book');$/;"	C
+Book	docker-nodejs/delivery-service/tests/books/repositories/test-firestore-books-repository.js	/^const Book = require(appRoot + '\/src\/books\/entities\/book');$/;"	C
+Book	docker-nodejs/delivery-service/tests/books/repositories/test-sequelize-books-repository.js	/^const Book = require(appRoot + '\/src\/books\/entities\/book');$/;"	C
+Book	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^const Book = require(appRoot + '\/src\/books\/entities\/book');$/;"	C
+Book	docker-nodejs/ecommerce-service/src/books/entities/book.js	/^class Book {$/;"	c
+Book	docker-nodejs/ecommerce-service/src/books/http/books-router.js	/^const Book = require('..\/entities\/book');$/;"	C
+Book	docker-nodejs/ecommerce-service/src/books/repositories/firestore-books-repository.js	/^const Book = require('..\/entities\/book');$/;"	C
+Book	docker-nodejs/ecommerce-service/src/books/usecases/manage-books-usecase.js	/^const Book = require('..\/entities\/book');$/;"	C
+Book	docker-nodejs/ecommerce-service/tests/books/repositories/test-firestore-books-repository.js	/^const Book = require(appRoot + '\/src\/books\/entities\/book');$/;"	C
+Book	docker-nodejs/ecommerce-service/tests/books/repositories/test-sequelize-books-repository.js	/^const Book = require(appRoot + '\/src\/books\/entities\/book');$/;"	C
+Book	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^const Book = require(appRoot + '\/src\/books\/entities\/book');$/;"	C
+Book	docker-python/delivery-service/src/books/entities/book.py	/^class Book():$/;"	c
+Book	docker-python/ecommerce-service/src/books/entities/book.py	/^class Book():$/;"	c
+COUNTER_KEY	docker-nodejs/delivery-service/src/greeting/repositories/redis-greeting-cache.js	/^const COUNTER_KEY = "greeting_counter";$/;"	C
+COUNTER_KEY	docker-nodejs/ecommerce-service/src/greeting/repositories/redis-greeting-cache.js	/^const COUNTER_KEY = "greeting_counter";$/;"	C
+Construction 🛠️	docker-nodejs/README.md	/^### Construction 🛠️$/;"	S	chapter:Project Name: Python Clean Architecture Microservices Templates
+Construction 🛠️	docker-python/README.md	/^### Construction 🛠️$/;"	S	chapter:Project Name: Python Clean Architecture Microservices Templates
+DATE_FORMAT	docker-python/delivery-service/src/utils/utils.py	/^DATE_FORMAT = "%Y-%m-%d %H:%M:%S"$/;"	v
+DATE_FORMAT	docker-python/ecommerce-service/src/utils/utils.py	/^DATE_FORMAT = "%Y-%m-%d %H:%M:%S"$/;"	v
+Deadline	README.md	/^## Deadline$/;"	s	chapter:Enviame's Backend Test
+Definitions:	README.md	/^#### Definitions:$/;"	t	subsection:Enviame's Backend Test""Before you begin""User Stories
+Description	docker-nodejs/README.md	/^### Description$/;"	S	chapter:Project Name: Python Clean Architecture Microservices Templates
+Description	docker-python/README.md	/^### Description$/;"	S	chapter:Project Name: Python Clean Architecture Microservices Templates
+Enviame's Backend Test	README.md	/^# Enviame's Backend Test$/;"	c
+FirestoreBooksRepository	docker-nodejs/delivery-service/src/books/repositories/firestore-books-repository.js	/^class FirestoreBooksRepository {$/;"	c
+FirestoreBooksRepository	docker-nodejs/delivery-service/src/index.js	/^const FirestoreBooksRepository = require('.\/books\/repositories\/firestore-books-repository');$/;"	C
+FirestoreBooksRepository	docker-nodejs/delivery-service/tests/books/repositories/test-firestore-books-repository.js	/^const FirestoreBooksRepository = require(appRoot + '\/src\/books\/repositories\/firestore-books-/;"	C
+FirestoreBooksRepository	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^const FirestoreBooksRepository = require(appRoot + '\/src\/books\/repositories\/firestore-books-/;"	C
+FirestoreBooksRepository	docker-nodejs/ecommerce-service/src/books/repositories/firestore-books-repository.js	/^class FirestoreBooksRepository {$/;"	c
+FirestoreBooksRepository	docker-nodejs/ecommerce-service/src/index.js	/^const FirestoreBooksRepository = require('.\/books\/repositories\/firestore-books-repository');$/;"	C
+FirestoreBooksRepository	docker-nodejs/ecommerce-service/tests/books/repositories/test-firestore-books-repository.js	/^const FirestoreBooksRepository = require(appRoot + '\/src\/books\/repositories\/firestore-books-/;"	C
+FirestoreBooksRepository	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^const FirestoreBooksRepository = require(appRoot + '\/src\/books\/repositories\/firestore-books-/;"	C
+FirestoreBooksRepository	docker-python/delivery-service/src/books/repositories/firestore_books_repository.py	/^class FirestoreBooksRepository():$/;"	c
+FirestoreBooksRepository	docker-python/ecommerce-service/src/books/repositories/firestore_books_repository.py	/^class FirestoreBooksRepository():$/;"	c
+GreetingUsecase	docker-nodejs/delivery-service/src/greeting/usecases/greeting-usecase.js	/^class GreetingUsecase {$/;"	c
+GreetingUsecase	docker-nodejs/delivery-service/src/index.js	/^const GreetingUsecase = require('.\/greeting\/usecases\/greeting-usecase');$/;"	C
+GreetingUsecase	docker-nodejs/ecommerce-service/src/greeting/usecases/greeting-usecase.js	/^class GreetingUsecase {$/;"	c
+GreetingUsecase	docker-nodejs/ecommerce-service/src/index.js	/^const GreetingUsecase = require('.\/greeting\/usecases\/greeting-usecase');$/;"	C
+GreetingUsecase	docker-python/delivery-service/src/greeting/usecases/greeting_usecase.py	/^class GreetingUsecase:$/;"	c
+GreetingUsecase	docker-python/ecommerce-service/src/greeting/usecases/greeting_usecase.py	/^class GreetingUsecase:$/;"	c
+Installation and execution	docker-nodejs/README.md	/^## Installation and execution$/;"	s	chapter:Project Name: Python Clean Architecture Microservices Templates
+Installation and execution	docker-python/README.md	/^## Installation and execution$/;"	s	chapter:Project Name: Python Clean Architecture Microservices Templates
+ManageBooksUsecase	docker-nodejs/delivery-service/src/books/usecases/manage-books-usecase.js	/^class ManageBooksUsecase {$/;"	c
+ManageBooksUsecase	docker-nodejs/delivery-service/src/index.js	/^const ManageBooksUsecase = require('.\/books\/usecases\/manage-books-usecase');$/;"	C
+ManageBooksUsecase	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^const ManageBooksUsecase = require(appRoot + '\/src\/books\/usecases\/manage-books-usecase');$/;"	C
+ManageBooksUsecase	docker-nodejs/ecommerce-service/src/books/usecases/manage-books-usecase.js	/^class ManageBooksUsecase {$/;"	c
+ManageBooksUsecase	docker-nodejs/ecommerce-service/src/index.js	/^const ManageBooksUsecase = require('.\/books\/usecases\/manage-books-usecase');$/;"	C
+ManageBooksUsecase	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^const ManageBooksUsecase = require(appRoot + '\/src\/books\/usecases\/manage-books-usecase');$/;"	C
+ManageBooksUsecase	docker-python/delivery-service/src/books/usecases/manage_books_usecase.py	/^class ManageBooksUsecase:$/;"	c
+ManageBooksUsecase	docker-python/ecommerce-service/src/books/usecases/manage_books_usecase.py	/^class ManageBooksUsecase:$/;"	c
+Note	docker-nodejs/README.md	/^#### Note$/;"	t	section:Project Name: Python Clean Architecture Microservices Templates""Installation and execution
+Note	docker-python/README.md	/^#### Note$/;"	t	section:Project Name: Python Clean Architecture Microservices Templates""Installation and execution
+Order events	README.md	/^##### Order events$/;"	T	subsubsection:Enviame's Backend Test""Before you begin""User Stories""Definitions:
+Project Name: Python Clean Architecture Microservices Templates	docker-nodejs/README.md	/^# Project Name: Python Clean Architecture Microservices Templates$/;"	c
+Project Name: Python Clean Architecture Microservices Templates	docker-python/README.md	/^# Project Name: Python Clean Architecture Microservices Templates$/;"	c
+RedisGreetingCache	docker-nodejs/delivery-service/src/greeting/repositories/redis-greeting-cache.js	/^class RedisGreetingCache {$/;"	c
+RedisGreetingCache	docker-nodejs/delivery-service/src/index.js	/^const RedisGreetingCache = require('.\/greeting\/repositories\/redis-greeting-cache');$/;"	C
+RedisGreetingCache	docker-nodejs/ecommerce-service/src/greeting/repositories/redis-greeting-cache.js	/^class RedisGreetingCache {$/;"	c
+RedisGreetingCache	docker-nodejs/ecommerce-service/src/index.js	/^const RedisGreetingCache = require('.\/greeting\/repositories\/redis-greeting-cache');$/;"	C
+RedisGreetingCache	docker-python/delivery-service/src/greeting/repositories/redis_greeting_cache.py	/^class RedisGreetingCache():$/;"	c
+RedisGreetingCache	docker-python/ecommerce-service/src/greeting/repositories/redis_greeting_cache.py	/^class RedisGreetingCache():$/;"	c
+Requirements	docker-nodejs/README.md	/^## Requirements$/;"	s	chapter:Project Name: Python Clean Architecture Microservices Templates
+Requirements	docker-python/README.md	/^## Requirements$/;"	s	chapter:Project Name: Python Clean Architecture Microservices Templates
+SQLAlchemyBooksRepository	docker-python/delivery-service/src/books/repositories/sqlalchemy_books_repository.py	/^class SQLAlchemyBooksRepository():$/;"	c
+SQLAlchemyBooksRepository	docker-python/ecommerce-service/src/books/repositories/sqlalchemy_books_repository.py	/^class SQLAlchemyBooksRepository():$/;"	c
+SQLAlchemyClient	docker-python/delivery-service/src/frameworks/db/sqlalchemy.py	/^class SQLAlchemyClient():$/;"	c
+SQLAlchemyClient	docker-python/ecommerce-service/src/frameworks/db/sqlalchemy.py	/^class SQLAlchemyClient():$/;"	c
+SequelizeBooksRepository	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^class SequelizeBooksRepository {$/;"	c
+SequelizeBooksRepository	docker-nodejs/delivery-service/src/index.js	/^const SequelizeBooksRepository = require('.\/books\/repositories\/sequelize-books-repository');$/;"	C
+SequelizeBooksRepository	docker-nodejs/delivery-service/tests/books/repositories/test-sequelize-books-repository.js	/^const SequelizeBooksRepository = require(appRoot + '\/src\/books\/repositories\/sequelize-books-/;"	C
+SequelizeBooksRepository	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^class SequelizeBooksRepository {$/;"	c
+SequelizeBooksRepository	docker-nodejs/ecommerce-service/src/index.js	/^const SequelizeBooksRepository = require('.\/books\/repositories\/sequelize-books-repository');$/;"	C
+SequelizeBooksRepository	docker-nodejs/ecommerce-service/tests/books/repositories/test-sequelize-books-repository.js	/^const SequelizeBooksRepository = require(appRoot + '\/src\/books\/repositories\/sequelize-books-/;"	C
+SequelizeClient	docker-nodejs/delivery-service/src/frameworks/db/sequelize.js	/^class SequelizeClient {$/;"	c
+SequelizeClient	docker-nodejs/delivery-service/src/index.js	/^const SequelizeClient = require('.\/frameworks\/db\/sequelize');$/;"	C
+SequelizeClient	docker-nodejs/delivery-service/tests/books/repositories/test-sequelize-books-repository.js	/^const SequelizeClient = require(appRoot + '\/src\/frameworks\/db\/sequelize');$/;"	C
+SequelizeClient	docker-nodejs/ecommerce-service/src/frameworks/db/sequelize.js	/^class SequelizeClient {$/;"	c
+SequelizeClient	docker-nodejs/ecommerce-service/src/index.js	/^const SequelizeClient = require('.\/frameworks\/db\/sequelize');$/;"	C
+SequelizeClient	docker-nodejs/ecommerce-service/tests/books/repositories/test-sequelize-books-repository.js	/^const SequelizeClient = require(appRoot + '\/src\/frameworks\/db\/sequelize');$/;"	C
+Services interaction eschema	README.md	/^##### Services interaction eschema$/;"	T	subsubsection:Enviame's Backend Test""Before you begin""User Stories""Definitions:
+Tech requirements	README.md	/^## Tech requirements$/;"	s	chapter:Enviame's Backend Test
+TestBook	docker-python/delivery-service/tests/books/entities/test_book.py	/^class TestBook:$/;"	c
+TestBook	docker-python/ecommerce-service/tests/books/entities/test_book.py	/^class TestBook:$/;"	c
+TestFirestoreBooksRepository	docker-python/delivery-service/tests/books/repositories/test_firestore_books_repository.py	/^class TestFirestoreBooksRepository:$/;"	c
+TestFirestoreBooksRepository	docker-python/ecommerce-service/tests/books/repositories/test_firestore_books_repository.py	/^class TestFirestoreBooksRepository:$/;"	c
+TestManageBooksUsecase	docker-python/delivery-service/tests/books/usecases/test_manage_books_usecase.py	/^class TestManageBooksUsecase:$/;"	c
+TestManageBooksUsecase	docker-python/ecommerce-service/tests/books/usecases/test_manage_books_usecase.py	/^class TestManageBooksUsecase:$/;"	c
+TestSqlAlchemyBooksRepository	docker-python/delivery-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^class TestSqlAlchemyBooksRepository:$/;"	c
+TestSqlAlchemyBooksRepository	docker-python/ecommerce-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^class TestSqlAlchemyBooksRepository:$/;"	c
+TestUtils	docker-python/delivery-service/tests/utils/test_utils.py	/^class TestUtils:$/;"	c
+TestUtils	docker-python/ecommerce-service/tests/utils/test_utils.py	/^class TestUtils:$/;"	c
+Testing ⚙️	docker-nodejs/README.md	/^### Testing ⚙️$/;"	S	section:Project Name: Python Clean Architecture Microservices Templates""Installation and execution
+Testing ⚙️	docker-python/README.md	/^### Testing ⚙️$/;"	S	section:Project Name: Python Clean Architecture Microservices Templates""Installation and execution
+User Stories	README.md	/^### User Stories$/;"	S	section:Enviame's Backend Test""Before you begin
+__init__	docker-python/delivery-service/src/books/entities/book.py	/^    def __init__(self, id, title, author, pages, created_at = None, updated_at = None, deleted_a/;"	m	class:Book
+__init__	docker-python/delivery-service/src/books/repositories/firestore_books_repository.py	/^    def __init__(self, firestore_client, test = False):$/;"	m	class:FirestoreBooksRepository
+__init__	docker-python/delivery-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def __init__(self, sqlalchemy_client, test = False):$/;"	m	class:SQLAlchemyBooksRepository
+__init__	docker-python/delivery-service/src/books/usecases/manage_books_usecase.py	/^    def __init__(self, books_repository):$/;"	m	class:ManageBooksUsecase
+__init__	docker-python/delivery-service/src/frameworks/db/sqlalchemy.py	/^    def __init__(self):$/;"	m	class:SQLAlchemyClient
+__init__	docker-python/delivery-service/src/greeting/repositories/redis_greeting_cache.py	/^    def __init__(self, redis_client):$/;"	m	class:RedisGreetingCache
+__init__	docker-python/delivery-service/src/greeting/usecases/greeting_usecase.py	/^    def __init__(self, greeting_cache):$/;"	m	class:GreetingUsecase
+__init__	docker-python/ecommerce-service/src/books/entities/book.py	/^    def __init__(self, id, title, author, pages, created_at = None, updated_at = None, deleted_a/;"	m	class:Book
+__init__	docker-python/ecommerce-service/src/books/repositories/firestore_books_repository.py	/^    def __init__(self, firestore_client, test = False):$/;"	m	class:FirestoreBooksRepository
+__init__	docker-python/ecommerce-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def __init__(self, sqlalchemy_client, test = False):$/;"	m	class:SQLAlchemyBooksRepository
+__init__	docker-python/ecommerce-service/src/books/usecases/manage_books_usecase.py	/^    def __init__(self, books_repository):$/;"	m	class:ManageBooksUsecase
+__init__	docker-python/ecommerce-service/src/frameworks/db/sqlalchemy.py	/^    def __init__(self):$/;"	m	class:SQLAlchemyClient
+__init__	docker-python/ecommerce-service/src/greeting/repositories/redis_greeting_cache.py	/^    def __init__(self, redis_client):$/;"	m	class:RedisGreetingCache
+__init__	docker-python/ecommerce-service/src/greeting/usecases/greeting_usecase.py	/^    def __init__(self, greeting_cache):$/;"	m	class:GreetingUsecase
+_emulator_channel	docker-python/delivery-service/src/frameworks/db/firestore.py	/^    def _emulator_channel(self, transport):$/;"	f	function:monkey_patch_firestore_emulator	file:
+_emulator_channel	docker-python/ecommerce-service/src/frameworks/db/firestore.py	/^    def _emulator_channel(self, transport):$/;"	f	function:monkey_patch_firestore_emulator	file:
+_getBookFromDocument	docker-nodejs/delivery-service/src/books/repositories/firestore-books-repository.js	/^  _getBookFromDocument(doc) {$/;"	m	class:FirestoreBooksRepository
+_getBookFromDocument	docker-nodejs/ecommerce-service/src/books/repositories/firestore-books-repository.js	/^  _getBookFromDocument(doc) {$/;"	m	class:FirestoreBooksRepository
+addopts	docker-python/delivery-service/pytest.ini	/^addopts = -srP --cov=src --log-cli-level=WARNING$/;"	k	section:pytest
+addopts	docker-python/ecommerce-service/pytest.ini	/^addopts = -srP --cov=src --log-cli-level=WARNING$/;"	k	section:pytest
+after_all	docker-python/delivery-service/tests/books/repositories/test_firestore_books_repository.py	/^def after_all(repository):$/;"	f
+after_all	docker-python/ecommerce-service/tests/books/repositories/test_firestore_books_repository.py	/^def after_all(repository):$/;"	f
+ajv	docker-nodejs/delivery-service/Docker/app/package.json	/^      "ajv": "^8.6.0",$/;"	s	object:dependencies
+ajv	docker-nodejs/delivery-service/src/frameworks/http/ajv.js	/^const ajv = new Ajv({$/;"	C
+ajv	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "ajv": "^8.6.0",$/;"	s	object:dependencies
+ajv	docker-nodejs/ecommerce-service/src/frameworks/http/ajv.js	/^const ajv = new Ajv({$/;"	C
+ajv-errors	docker-nodejs/delivery-service/Docker/app/package.json	/^      "ajv-errors": "^3.0.0",$/;"	s	object:dependencies
+ajv-errors	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "ajv-errors": "^3.0.0",$/;"	s	object:dependencies
+alter	docker-nodejs/delivery-service/src/frameworks/db/sequelize.js	/^      alter: false,$/;"	p	class:SequelizeClient.syncDatabase.syncOptions
+alter	docker-nodejs/ecommerce-service/src/frameworks/db/sequelize.js	/^      alter: false,$/;"	p	class:SequelizeClient.syncDatabase.syncOptions
+app	docker-nodejs/delivery-service/src/index.js	/^const app = createExpressApp(routers);/;"	C
+app	docker-nodejs/ecommerce-service/src/index.js	/^const app = createExpressApp(routers);/;"	C
+app	docker-python/delivery-service/src/main.py	/^app = create_flask_app(blueprints)/;"	v
+app	docker-python/ecommerce-service/src/main.py	/^app = create_flask_app(blueprints)/;"	v
+app-root-path	docker-nodejs/delivery-service/Docker/app/package.json	/^      "app-root-path": "^3.0.0",$/;"	s	object:dependencies
+app-root-path	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "app-root-path": "^3.0.0",$/;"	s	object:dependencies
+appRoot	docker-nodejs/delivery-service/src/books/http/books-router.js	/^const appRoot = require('app-root-path');$/;"	C
+appRoot	docker-nodejs/delivery-service/src/greeting/http/greeting-router.js	/^const appRoot = require('app-root-path');$/;"	C
+appRoot	docker-nodejs/delivery-service/tests/books/repositories/test-firestore-books-repository.js	/^const appRoot = require('app-root-path');$/;"	C
+appRoot	docker-nodejs/delivery-service/tests/books/repositories/test-sequelize-books-repository.js	/^const appRoot = require('app-root-path');$/;"	C
+appRoot	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^const appRoot = require('app-root-path');$/;"	C
+appRoot	docker-nodejs/ecommerce-service/src/books/http/books-router.js	/^const appRoot = require('app-root-path');$/;"	C
+appRoot	docker-nodejs/ecommerce-service/src/greeting/http/greeting-router.js	/^const appRoot = require('app-root-path');$/;"	C
+appRoot	docker-nodejs/ecommerce-service/tests/books/repositories/test-firestore-books-repository.js	/^const appRoot = require('app-root-path');$/;"	C
+appRoot	docker-nodejs/ecommerce-service/tests/books/repositories/test-sequelize-books-repository.js	/^const appRoot = require('app-root-path');$/;"	C
+appRoot	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^const appRoot = require('app-root-path');$/;"	C
+assert	docker-nodejs/delivery-service/tests/books/repositories/test-firestore-books-repository.js	/^const assert = require('assert');$/;"	C
+assert	docker-nodejs/delivery-service/tests/books/repositories/test-sequelize-books-repository.js	/^const assert = require('assert');$/;"	C
+assert	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^const assert = require('assert');$/;"	C
+assert	docker-nodejs/ecommerce-service/tests/books/repositories/test-firestore-books-repository.js	/^const assert = require('assert');$/;"	C
+assert	docker-nodejs/ecommerce-service/tests/books/repositories/test-sequelize-books-repository.js	/^const assert = require('assert');$/;"	C
+assert	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^const assert = require('assert');$/;"	C
+auth_provider_x509_cert_url	docker-nodejs/delivery-service/Docker/database/firestore-account/service-account.json	/^  "auth_provider_x509_cert_url": "https:\/\/www.googleapis.com\/oauth2\/v1\/certs",$/;"	s
+auth_provider_x509_cert_url	docker-nodejs/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "auth_provider_x509_cert_url": "https:\/\/www.googleapis.com\/oauth2\/v1\/certs",$/;"	s
+auth_provider_x509_cert_url	docker-python/delivery-service/Docker/database/firestore-account/service-account.json	/^  "auth_provider_x509_cert_url": "https:\/\/www.googleapis.com\/oauth2\/v1\/certs",$/;"	s
+auth_provider_x509_cert_url	docker-python/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "auth_provider_x509_cert_url": "https:\/\/www.googleapis.com\/oauth2\/v1\/certs",$/;"	s
+auth_uri	docker-nodejs/delivery-service/Docker/database/firestore-account/service-account.json	/^  "auth_uri": "https:\/\/accounts.google.com\/o\/oauth2\/auth",$/;"	s
+auth_uri	docker-nodejs/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "auth_uri": "https:\/\/accounts.google.com\/o\/oauth2\/auth",$/;"	s
+auth_uri	docker-python/delivery-service/Docker/database/firestore-account/service-account.json	/^  "auth_uri": "https:\/\/accounts.google.com\/o\/oauth2\/auth",$/;"	s
+auth_uri	docker-python/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "auth_uri": "https:\/\/accounts.google.com\/o\/oauth2\/auth",$/;"	s
+author	docker-nodejs/delivery-service/Docker/app/package.json	/^    "author": "hans.auzian@enviame.io",$/;"	s
+author	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^      author: DataTypes.STRING,$/;"	p	class:SequelizeBooksRepository.constructor.columns
+author	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^      "author": "test-author",$/;"	p	class:AnonymousFunction9b72cb090100.AnonymousFunction9b72cb090300.data
+author	docker-nodejs/ecommerce-service/Docker/app/package.json	/^    "author": "hans.auzian@enviame.io",$/;"	s
+author	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^      author: DataTypes.STRING,$/;"	p	class:SequelizeBooksRepository.constructor.columns
+author	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^      "author": "test-author",$/;"	p	class:AnonymousFunction717093150100.AnonymousFunction717093150300.data
+autoIncrement	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^        autoIncrement: true,$/;"	p	class:SequelizeBooksRepository.constructor.columns.id
+autoIncrement	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^        autoIncrement: true,$/;"	p	class:SequelizeBooksRepository.constructor.columns.id
+before_and_after_all	docker-python/delivery-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^def before_and_after_all(client, repository):$/;"	f
+before_and_after_all	docker-python/ecommerce-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^def before_and_after_all(client, repository):$/;"	f
+before_each	docker-python/delivery-service/tests/books/repositories/test_firestore_books_repository.py	/^def before_each(repository):$/;"	f
+before_each	docker-python/delivery-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^def before_each(repository):$/;"	f
+before_each	docker-python/ecommerce-service/tests/books/repositories/test_firestore_books_repository.py	/^def before_each(repository):$/;"	f
+before_each	docker-python/ecommerce-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^def before_each(repository):$/;"	f
+blueprints	docker-python/delivery-service/src/main.py	/^blueprints = [$/;"	v
+blueprints	docker-python/ecommerce-service/src/main.py	/^blueprints = [$/;"	v
+chai	docker-nodejs/delivery-service/Docker/app/package.json	/^      "chai": "^4.2.0",$/;"	s	object:devDependencies
+chai	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "chai": "^4.2.0",$/;"	s	object:devDependencies
+chai-http	docker-nodejs/delivery-service/Docker/app/package.json	/^      "chai-http": "^4.3.0",$/;"	s	object:devDependencies
+chai-http	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "chai-http": "^4.3.0",$/;"	s	object:devDependencies
+client	docker-python/delivery-service/tests/books/repositories/test_firestore_books_repository.py	/^def client():$/;"	f
+client	docker-python/delivery-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^def client():$/;"	f
+client	docker-python/ecommerce-service/tests/books/repositories/test_firestore_books_repository.py	/^def client():$/;"	f
+client	docker-python/ecommerce-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^def client():$/;"	f
+client_email	docker-nodejs/delivery-service/Docker/database/firestore-account/service-account.json	/^  "client_email": "template@enviame-lab.iam.gserviceaccount.com",$/;"	s
+client_email	docker-nodejs/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "client_email": "template@enviame-lab.iam.gserviceaccount.com",$/;"	s
+client_email	docker-python/delivery-service/Docker/database/firestore-account/service-account.json	/^  "client_email": "template@enviame-lab.iam.gserviceaccount.com",$/;"	s
+client_email	docker-python/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "client_email": "template@enviame-lab.iam.gserviceaccount.com",$/;"	s
+client_id	docker-nodejs/delivery-service/Docker/database/firestore-account/service-account.json	/^  "client_id": "115448508747297716634",$/;"	s
+client_id	docker-nodejs/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "client_id": "115448508747297716634",$/;"	s
+client_id	docker-python/delivery-service/Docker/database/firestore-account/service-account.json	/^  "client_id": "115448508747297716634",$/;"	s
+client_id	docker-python/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "client_id": "115448508747297716634",$/;"	s
+client_x509_cert_url	docker-nodejs/delivery-service/Docker/database/firestore-account/service-account.json	/^  "client_x509_cert_url": "https:\/\/www.googleapis.com\/robot\/v1\/metadata\/x509\/template%40e/;"	s
+client_x509_cert_url	docker-nodejs/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "client_x509_cert_url": "https:\/\/www.googleapis.com\/robot\/v1\/metadata\/x509\/template%40e/;"	s
+client_x509_cert_url	docker-python/delivery-service/Docker/database/firestore-account/service-account.json	/^  "client_x509_cert_url": "https:\/\/www.googleapis.com\/robot\/v1\/metadata\/x509\/template%40e/;"	s
+client_x509_cert_url	docker-python/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "client_x509_cert_url": "https:\/\/www.googleapis.com\/robot\/v1\/metadata\/x509\/template%40e/;"	s
+code	docker-nodejs/delivery-service/src/frameworks/http/ajv.js	/^            code : statusCode$/;"	p	class:validateSchema.response
+code	docker-nodejs/ecommerce-service/src/frameworks/http/ajv.js	/^            code : statusCode$/;"	p	class:validateSchema.response
+columns	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^    const columns = {$/;"	c	class:SequelizeBooksRepository.constructor
+columns	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^    const columns = {$/;"	c	class:SequelizeBooksRepository.constructor
+constructor	docker-nodejs/delivery-service/src/books/repositories/firestore-books-repository.js	/^  constructor(firestoreClient, test = false) {$/;"	m	class:FirestoreBooksRepository
+constructor	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^  constructor(sequelizeClient, test = false) {$/;"	m	class:SequelizeBooksRepository
+constructor	docker-nodejs/delivery-service/src/books/usecases/manage-books-usecase.js	/^  constructor(booksRepository) {$/;"	m	class:ManageBooksUsecase
+constructor	docker-nodejs/delivery-service/src/frameworks/db/sequelize.js	/^  constructor() {$/;"	m	class:SequelizeClient
+constructor	docker-nodejs/delivery-service/src/greeting/repositories/redis-greeting-cache.js	/^  constructor(redisClient) {$/;"	m	class:RedisGreetingCache
+constructor	docker-nodejs/delivery-service/src/greeting/usecases/greeting-usecase.js	/^  constructor(greetingCache) {$/;"	m	class:GreetingUsecase
+constructor	docker-nodejs/ecommerce-service/src/books/repositories/firestore-books-repository.js	/^  constructor(firestoreClient, test = false) {$/;"	m	class:FirestoreBooksRepository
+constructor	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^  constructor(sequelizeClient, test = false) {$/;"	m	class:SequelizeBooksRepository
+constructor	docker-nodejs/ecommerce-service/src/books/usecases/manage-books-usecase.js	/^  constructor(booksRepository) {$/;"	m	class:ManageBooksUsecase
+constructor	docker-nodejs/ecommerce-service/src/frameworks/db/sequelize.js	/^  constructor() {$/;"	m	class:SequelizeClient
+constructor	docker-nodejs/ecommerce-service/src/greeting/repositories/redis-greeting-cache.js	/^  constructor(redisClient) {$/;"	m	class:RedisGreetingCache
+constructor	docker-nodejs/ecommerce-service/src/greeting/usecases/greeting-usecase.js	/^  constructor(greetingCache) {$/;"	m	class:GreetingUsecase
+createBook	docker-nodejs/delivery-service/src/books/repositories/firestore-books-repository.js	/^  async createBook(book) {$/;"	m	class:FirestoreBooksRepository
+createBook	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^  async createBook(book) {$/;"	m	class:SequelizeBooksRepository
+createBook	docker-nodejs/delivery-service/src/books/usecases/manage-books-usecase.js	/^  async createBook(data) {$/;"	m	class:ManageBooksUsecase
+createBook	docker-nodejs/ecommerce-service/src/books/repositories/firestore-books-repository.js	/^  async createBook(book) {$/;"	m	class:FirestoreBooksRepository
+createBook	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^  async createBook(book) {$/;"	m	class:SequelizeBooksRepository
+createBook	docker-nodejs/ecommerce-service/src/books/usecases/manage-books-usecase.js	/^  async createBook(data) {$/;"	m	class:ManageBooksUsecase
+createBooksRouter	docker-nodejs/delivery-service/src/books/http/books-router.js	/^function createBooksRouter(manageBooksUsecase) {$/;"	f
+createBooksRouter	docker-nodejs/delivery-service/src/index.js	/^const createBooksRouter = require('.\/books\/http\/books-router');$/;"	C
+createBooksRouter	docker-nodejs/ecommerce-service/src/books/http/books-router.js	/^function createBooksRouter(manageBooksUsecase) {$/;"	f
+createBooksRouter	docker-nodejs/ecommerce-service/src/index.js	/^const createBooksRouter = require('.\/books\/http\/books-router');$/;"	C
+createExpressApp	docker-nodejs/delivery-service/src/frameworks/http/express.js	/^async function createExpressApp(routers) {$/;"	f
+createExpressApp	docker-nodejs/delivery-service/src/index.js	/^const createExpressApp = require('.\/frameworks\/http\/express');$/;"	C
+createExpressApp	docker-nodejs/ecommerce-service/src/frameworks/http/express.js	/^async function createExpressApp(routers) {$/;"	f
+createExpressApp	docker-nodejs/ecommerce-service/src/index.js	/^const createExpressApp = require('.\/frameworks\/http\/express');$/;"	C
+createFirestoreClient	docker-nodejs/delivery-service/src/frameworks/db/firestore.js	/^function createFirestoreClient() {$/;"	f
+createFirestoreClient	docker-nodejs/delivery-service/src/index.js	/^const createFirestoreClient = require('.\/frameworks\/db\/firestore');$/;"	C
+createFirestoreClient	docker-nodejs/delivery-service/tests/books/repositories/test-firestore-books-repository.js	/^const createFirestoreClient = require(appRoot + '\/src\/frameworks\/db\/firestore');$/;"	C
+createFirestoreClient	docker-nodejs/ecommerce-service/src/frameworks/db/firestore.js	/^function createFirestoreClient() {$/;"	f
+createFirestoreClient	docker-nodejs/ecommerce-service/src/index.js	/^const createFirestoreClient = require('.\/frameworks\/db\/firestore');$/;"	C
+createFirestoreClient	docker-nodejs/ecommerce-service/tests/books/repositories/test-firestore-books-repository.js	/^const createFirestoreClient = require(appRoot + '\/src\/frameworks\/db\/firestore');$/;"	C
+createGreetingRouter	docker-nodejs/delivery-service/src/greeting/http/greeting-router.js	/^function createGreetingRouter(greetingUsecase) {$/;"	f
+createGreetingRouter	docker-nodejs/delivery-service/src/index.js	/^const createGreetingRouter = require('.\/greeting\/http\/greeting-router');$/;"	C
+createGreetingRouter	docker-nodejs/ecommerce-service/src/greeting/http/greeting-router.js	/^function createGreetingRouter(greetingUsecase) {$/;"	f
+createGreetingRouter	docker-nodejs/ecommerce-service/src/index.js	/^const createGreetingRouter = require('.\/greeting\/http\/greeting-router');$/;"	C
+createRedisClient	docker-nodejs/delivery-service/src/frameworks/db/redis.js	/^function createRedisClient() {$/;"	f
+createRedisClient	docker-nodejs/delivery-service/src/index.js	/^const createRedisClient = require('.\/frameworks\/db\/redis');$/;"	C
+createRedisClient	docker-nodejs/ecommerce-service/src/frameworks/db/redis.js	/^function createRedisClient() {$/;"	f
+createRedisClient	docker-nodejs/ecommerce-service/src/index.js	/^const createRedisClient = require('.\/frameworks\/db\/redis');$/;"	C
+create_book	docker-python/delivery-service/src/books/http/books_blueprint.py	/^    def create_book():$/;"	f	function:create_books_blueprint	file:
+create_book	docker-python/delivery-service/src/books/repositories/firestore_books_repository.py	/^    def create_book(self, book):$/;"	m	class:FirestoreBooksRepository
+create_book	docker-python/delivery-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def create_book(self, book):$/;"	m	class:SQLAlchemyBooksRepository
+create_book	docker-python/delivery-service/src/books/usecases/manage_books_usecase.py	/^    def create_book(self, data):$/;"	m	class:ManageBooksUsecase
+create_book	docker-python/ecommerce-service/src/books/http/books_blueprint.py	/^    def create_book():$/;"	f	function:create_books_blueprint	file:
+create_book	docker-python/ecommerce-service/src/books/repositories/firestore_books_repository.py	/^    def create_book(self, book):$/;"	m	class:FirestoreBooksRepository
+create_book	docker-python/ecommerce-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def create_book(self, book):$/;"	m	class:SQLAlchemyBooksRepository
+create_book	docker-python/ecommerce-service/src/books/usecases/manage_books_usecase.py	/^    def create_book(self, data):$/;"	m	class:ManageBooksUsecase
+create_books_blueprint	docker-python/delivery-service/src/books/http/books_blueprint.py	/^def create_books_blueprint(manage_books_usecase):$/;"	f
+create_books_blueprint	docker-python/ecommerce-service/src/books/http/books_blueprint.py	/^def create_books_blueprint(manage_books_usecase):$/;"	f
+create_firestore_client	docker-python/delivery-service/src/frameworks/db/firestore.py	/^def create_firestore_client():$/;"	f
+create_firestore_client	docker-python/ecommerce-service/src/frameworks/db/firestore.py	/^def create_firestore_client():$/;"	f
+create_flask_app	docker-python/delivery-service/src/frameworks/http/flask.py	/^def create_flask_app(blueprints):$/;"	f
+create_flask_app	docker-python/ecommerce-service/src/frameworks/http/flask.py	/^def create_flask_app(blueprints):$/;"	f
+create_greeting_blueprint	docker-python/delivery-service/src/greeting/http/greeting_blueprint.py	/^def create_greeting_blueprint(greeting_usecase):$/;"	f
+create_greeting_blueprint	docker-python/ecommerce-service/src/greeting/http/greeting_blueprint.py	/^def create_greeting_blueprint(greeting_usecase):$/;"	f
+create_redis_client	docker-python/delivery-service/src/frameworks/db/redis.py	/^def create_redis_client():$/;"	f
+create_redis_client	docker-python/ecommerce-service/src/frameworks/db/redis.py	/^def create_redis_client():$/;"	f
+create_tables	docker-python/delivery-service/src/frameworks/db/sqlalchemy.py	/^    def create_tables(self):$/;"	m	class:SQLAlchemyClient
+create_tables	docker-python/ecommerce-service/src/frameworks/db/sqlalchemy.py	/^    def create_tables(self):$/;"	m	class:SQLAlchemyClient
+data	docker-nodejs/delivery-service/src/frameworks/http/ajv.js	/^            data : errorsPool,$/;"	p	class:validateSchema.response
+data	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^    data = {$/;"	c	class:AnonymousFunction9b72cb090100.AnonymousFunction9b72cb090300
+data	docker-nodejs/ecommerce-service/src/frameworks/http/ajv.js	/^            data : errorsPool,$/;"	p	class:validateSchema.response
+data	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^    data = {$/;"	c	class:AnonymousFunction717093150100.AnonymousFunction717093150300
+deleteAllBooks	docker-nodejs/delivery-service/src/books/repositories/firestore-books-repository.js	/^  async deleteAllBooks() {$/;"	m	class:FirestoreBooksRepository
+deleteAllBooks	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^  async deleteAllBooks() {$/;"	m	class:SequelizeBooksRepository
+deleteAllBooks	docker-nodejs/ecommerce-service/src/books/repositories/firestore-books-repository.js	/^  async deleteAllBooks() {$/;"	m	class:FirestoreBooksRepository
+deleteAllBooks	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^  async deleteAllBooks() {$/;"	m	class:SequelizeBooksRepository
+deleteBook	docker-nodejs/delivery-service/src/books/repositories/firestore-books-repository.js	/^  async deleteBook(id) {$/;"	m	class:FirestoreBooksRepository
+deleteBook	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^  async deleteBook(id) {$/;"	m	class:SequelizeBooksRepository
+deleteBook	docker-nodejs/delivery-service/src/books/usecases/manage-books-usecase.js	/^  async deleteBook(id) {$/;"	m	class:ManageBooksUsecase
+deleteBook	docker-nodejs/ecommerce-service/src/books/repositories/firestore-books-repository.js	/^  async deleteBook(id) {$/;"	m	class:FirestoreBooksRepository
+deleteBook	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^  async deleteBook(id) {$/;"	m	class:SequelizeBooksRepository
+deleteBook	docker-nodejs/ecommerce-service/src/books/usecases/manage-books-usecase.js	/^  async deleteBook(id) {$/;"	m	class:ManageBooksUsecase
+delete_book	docker-python/delivery-service/src/books/http/books_blueprint.py	/^    def delete_book(book_id):$/;"	f	function:create_books_blueprint	file:
+delete_book	docker-python/delivery-service/src/books/usecases/manage_books_usecase.py	/^    def delete_book(self, book_id):$/;"	m	class:ManageBooksUsecase
+delete_book	docker-python/ecommerce-service/src/books/http/books_blueprint.py	/^    def delete_book(book_id):$/;"	f	function:create_books_blueprint	file:
+delete_book	docker-python/ecommerce-service/src/books/usecases/manage_books_usecase.py	/^    def delete_book(self, book_id):$/;"	m	class:ManageBooksUsecase
+delivery microservice	README.md	/^#### delivery microservice$/;"	t	subsection:Enviame's Backend Test""Before you begin""User Stories
+dependencies	docker-nodejs/delivery-service/Docker/app/package.json	/^    "dependencies": {$/;"	o
+dependencies	docker-nodejs/ecommerce-service/Docker/app/package.json	/^    "dependencies": {$/;"	o
+description	docker-nodejs/delivery-service/Docker/app/package.json	/^    "description": "",$/;"	s
+description	docker-nodejs/ecommerce-service/Docker/app/package.json	/^    "description": "",$/;"	s
+dev	docker-nodejs/delivery-service/Docker/app/package.json	/^      "dev": "nodemon src\/index.js",$/;"	s	object:scripts
+dev	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "dev": "nodemon src\/index.js",$/;"	s	object:scripts
+devDependencies	docker-nodejs/delivery-service/Docker/app/package.json	/^    "devDependencies": {$/;"	o
+devDependencies	docker-nodejs/ecommerce-service/Docker/app/package.json	/^    "devDependencies": {$/;"	o
+dispose_mapper	docker-python/delivery-service/src/frameworks/db/sqlalchemy.py	/^    def dispose_mapper(self):$/;"	m	class:SQLAlchemyClient
+dispose_mapper	docker-python/ecommerce-service/src/frameworks/db/sqlalchemy.py	/^    def dispose_mapper(self):$/;"	m	class:SQLAlchemyClient
+dropBooksTable	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^  async dropBooksTable() {$/;"	m	class:SequelizeBooksRepository
+dropBooksTable	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^  async dropBooksTable() {$/;"	m	class:SequelizeBooksRepository
+drop_books_table	docker-python/delivery-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def drop_books_table(self):$/;"	m	class:SQLAlchemyBooksRepository
+drop_books_table	docker-python/ecommerce-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def drop_books_table(self):$/;"	m	class:SQLAlchemyBooksRepository
+drop_table	docker-python/delivery-service/src/frameworks/db/sqlalchemy.py	/^    def drop_table(self, table):$/;"	m	class:SQLAlchemyClient
+drop_table	docker-python/ecommerce-service/src/frameworks/db/sqlalchemy.py	/^    def drop_table(self, table):$/;"	m	class:SQLAlchemyClient
+ecommerce microservice	README.md	/^#### ecommerce microservice$/;"	t	subsection:Enviame's Backend Test""Before you begin""User Stories
+env_files	docker-python/delivery-service/pytest.ini	/^env_files =$/;"	k	section:pytest
+env_files	docker-python/ecommerce-service/pytest.ini	/^env_files =$/;"	k	section:pytest
+express	docker-nodejs/delivery-service/Docker/app/package.json	/^      "express": "^4.17.1",$/;"	s	object:dependencies
+express	docker-nodejs/delivery-service/src/books/http/books-router.js	/^const express = require('express');$/;"	C
+express	docker-nodejs/delivery-service/src/frameworks/http/express.js	/^const express = require('express');$/;"	C
+express	docker-nodejs/delivery-service/src/greeting/http/greeting-router.js	/^const express = require('express');$/;"	C
+express	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "express": "^4.17.1",$/;"	s	object:dependencies
+express	docker-nodejs/ecommerce-service/src/books/http/books-router.js	/^const express = require('express');$/;"	C
+express	docker-nodejs/ecommerce-service/src/frameworks/http/express.js	/^const express = require('express');$/;"	C
+express	docker-nodejs/ecommerce-service/src/greeting/http/greeting-router.js	/^const express = require('express');$/;"	C
+filter_dict	docker-python/delivery-service/src/utils/utils.py	/^def filter_dict(dict, fields):$/;"	f
+filter_dict	docker-python/ecommerce-service/src/utils/utils.py	/^def filter_dict(dict, fields):$/;"	f
+firestoreBooksRepository	docker-nodejs/delivery-service/src/index.js	/^const firestoreBooksRepository = new FirestoreBooksRepository(firestoreClient);$/;"	C
+firestoreBooksRepository	docker-nodejs/ecommerce-service/src/index.js	/^const firestoreBooksRepository = new FirestoreBooksRepository(firestoreClient);$/;"	C
+firestoreClient	docker-nodejs/delivery-service/src/index.js	/^const firestoreClient = createFirestoreClient();$/;"	C
+firestoreClient	docker-nodejs/ecommerce-service/src/index.js	/^const firestoreClient = createFirestoreClient();$/;"	C
+firestore_books_repository	docker-python/delivery-service/src/main.py	/^firestore_books_repository = FirestoreBooksRepository(firestore_client)$/;"	v
+firestore_books_repository	docker-python/ecommerce-service/src/main.py	/^firestore_books_repository = FirestoreBooksRepository(firestore_client)$/;"	v
+firestore_client	docker-python/delivery-service/src/main.py	/^firestore_client = create_firestore_client()$/;"	v
+firestore_client	docker-python/ecommerce-service/src/main.py	/^firestore_client = create_firestore_client()$/;"	v
+format_date	docker-python/delivery-service/src/utils/utils.py	/^def format_date(datetime):$/;"	f
+format_date	docker-python/ecommerce-service/src/utils/utils.py	/^def format_date(datetime):$/;"	f
+from_dict	docker-python/delivery-service/src/books/entities/book.py	/^    def from_dict(cls, dict):$/;"	m	class:Book
+from_dict	docker-python/ecommerce-service/src/books/entities/book.py	/^    def from_dict(cls, dict):$/;"	m	class:Book
+getBook	docker-nodejs/delivery-service/src/books/repositories/firestore-books-repository.js	/^  async getBook(id) {$/;"	m	class:FirestoreBooksRepository
+getBook	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^  async getBook(id) {$/;"	m	class:SequelizeBooksRepository
+getBook	docker-nodejs/delivery-service/src/books/usecases/manage-books-usecase.js	/^  async getBook(id) {$/;"	m	class:ManageBooksUsecase
+getBook	docker-nodejs/ecommerce-service/src/books/repositories/firestore-books-repository.js	/^  async getBook(id) {$/;"	m	class:FirestoreBooksRepository
+getBook	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^  async getBook(id) {$/;"	m	class:SequelizeBooksRepository
+getBook	docker-nodejs/ecommerce-service/src/books/usecases/manage-books-usecase.js	/^  async getBook(id) {$/;"	m	class:ManageBooksUsecase
+getBooks	docker-nodejs/delivery-service/src/books/repositories/firestore-books-repository.js	/^  async getBooks() {$/;"	m	class:FirestoreBooksRepository
+getBooks	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^  async getBooks() {$/;"	m	class:SequelizeBooksRepository
+getBooks	docker-nodejs/delivery-service/src/books/usecases/manage-books-usecase.js	/^  async getBooks() {$/;"	m	class:ManageBooksUsecase
+getBooks	docker-nodejs/ecommerce-service/src/books/repositories/firestore-books-repository.js	/^  async getBooks() {$/;"	m	class:FirestoreBooksRepository
+getBooks	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^  async getBooks() {$/;"	m	class:SequelizeBooksRepository
+getBooks	docker-nodejs/ecommerce-service/src/books/usecases/manage-books-usecase.js	/^  async getBooks() {$/;"	m	class:ManageBooksUsecase
+getGreetingCounter	docker-nodejs/delivery-service/src/greeting/repositories/redis-greeting-cache.js	/^  async getGreetingCounter() {$/;"	m	class:RedisGreetingCache
+getGreetingCounter	docker-nodejs/ecommerce-service/src/greeting/repositories/redis-greeting-cache.js	/^  async getGreetingCounter() {$/;"	m	class:RedisGreetingCache
+get_book	docker-python/delivery-service/src/books/http/books_blueprint.py	/^    def get_book(book_id):$/;"	f	function:create_books_blueprint	file:
+get_book	docker-python/delivery-service/src/books/repositories/firestore_books_repository.py	/^    def get_book(self, book_id):$/;"	m	class:FirestoreBooksRepository
+get_book	docker-python/delivery-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def get_book(self, id):$/;"	m	class:SQLAlchemyBooksRepository
+get_book	docker-python/delivery-service/src/books/usecases/manage_books_usecase.py	/^    def get_book(self, book_id):$/;"	m	class:ManageBooksUsecase
+get_book	docker-python/ecommerce-service/src/books/http/books_blueprint.py	/^    def get_book(book_id):$/;"	f	function:create_books_blueprint	file:
+get_book	docker-python/ecommerce-service/src/books/repositories/firestore_books_repository.py	/^    def get_book(self, book_id):$/;"	m	class:FirestoreBooksRepository
+get_book	docker-python/ecommerce-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def get_book(self, id):$/;"	m	class:SQLAlchemyBooksRepository
+get_book	docker-python/ecommerce-service/src/books/usecases/manage_books_usecase.py	/^    def get_book(self, book_id):$/;"	m	class:ManageBooksUsecase
+get_books	docker-python/delivery-service/src/books/http/books_blueprint.py	/^    def get_books():$/;"	f	function:create_books_blueprint	file:
+get_books	docker-python/delivery-service/src/books/repositories/firestore_books_repository.py	/^    def get_books(self, author = None, title = None, min_pages = None, max_pages = None):$/;"	m	class:FirestoreBooksRepository
+get_books	docker-python/delivery-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def get_books(self):$/;"	m	class:SQLAlchemyBooksRepository
+get_books	docker-python/delivery-service/src/books/usecases/manage_books_usecase.py	/^    def get_books(self):$/;"	m	class:ManageBooksUsecase
+get_books	docker-python/ecommerce-service/src/books/http/books_blueprint.py	/^    def get_books():$/;"	f	function:create_books_blueprint	file:
+get_books	docker-python/ecommerce-service/src/books/repositories/firestore_books_repository.py	/^    def get_books(self, author = None, title = None, min_pages = None, max_pages = None):$/;"	m	class:FirestoreBooksRepository
+get_books	docker-python/ecommerce-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def get_books(self):$/;"	m	class:SQLAlchemyBooksRepository
+get_books	docker-python/ecommerce-service/src/books/usecases/manage_books_usecase.py	/^    def get_books(self):$/;"	m	class:ManageBooksUsecase
+get_current_datetime	docker-python/delivery-service/src/utils/utils.py	/^def get_current_datetime():$/;"	f
+get_current_datetime	docker-python/ecommerce-service/src/utils/utils.py	/^def get_current_datetime():$/;"	f
+get_greeting_counter	docker-python/delivery-service/src/greeting/repositories/redis_greeting_cache.py	/^    def get_greeting_counter(self):$/;"	m	class:RedisGreetingCache
+get_greeting_counter	docker-python/ecommerce-service/src/greeting/repositories/redis_greeting_cache.py	/^    def get_greeting_counter(self):$/;"	m	class:RedisGreetingCache
+greetingUsecase	docker-nodejs/delivery-service/src/index.js	/^const greetingUsecase = new GreetingUsecase(redisGreetingCache);$/;"	C
+greetingUsecase	docker-nodejs/ecommerce-service/src/index.js	/^const greetingUsecase = new GreetingUsecase(redisGreetingCache);$/;"	C
+greeting_usecase	docker-python/delivery-service/src/main.py	/^greeting_usecase = GreetingUsecase(redis_greeting_cache)$/;"	v
+greeting_usecase	docker-python/ecommerce-service/src/main.py	/^greeting_usecase = GreetingUsecase(redis_greeting_cache)$/;"	v
+hard_delete_all_books	docker-python/delivery-service/src/books/repositories/firestore_books_repository.py	/^    def hard_delete_all_books(self):$/;"	m	class:FirestoreBooksRepository
+hard_delete_all_books	docker-python/delivery-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def hard_delete_all_books(self):$/;"	m	class:SQLAlchemyBooksRepository
+hard_delete_all_books	docker-python/ecommerce-service/src/books/repositories/firestore_books_repository.py	/^    def hard_delete_all_books(self):$/;"	m	class:FirestoreBooksRepository
+hard_delete_all_books	docker-python/ecommerce-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def hard_delete_all_books(self):$/;"	m	class:SQLAlchemyBooksRepository
+hard_delete_book	docker-python/delivery-service/src/books/repositories/firestore_books_repository.py	/^    def hard_delete_book(self, book_id):$/;"	m	class:FirestoreBooksRepository
+hard_delete_book	docker-python/delivery-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def hard_delete_book(self, id):$/;"	m	class:SQLAlchemyBooksRepository
+hard_delete_book	docker-python/ecommerce-service/src/books/repositories/firestore_books_repository.py	/^    def hard_delete_book(self, book_id):$/;"	m	class:FirestoreBooksRepository
+hard_delete_book	docker-python/ecommerce-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def hard_delete_book(self, id):$/;"	m	class:SQLAlchemyBooksRepository
+id	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^        id: book.id,$/;"	p	class:SequelizeBooksRepository.updateBook.options.where
+id	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^        id: id,$/;"	p	class:SequelizeBooksRepository.deleteBook.options.where
+id	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^      id: {$/;"	c	class:SequelizeBooksRepository.constructor.columns
+id	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^        id: book.id,$/;"	p	class:SequelizeBooksRepository.updateBook.options.where
+id	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^        id: id,$/;"	p	class:SequelizeBooksRepository.deleteBook.options.where
+id	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^      id: {$/;"	c	class:SequelizeBooksRepository.constructor.columns
+license	docker-nodejs/delivery-service/Docker/app/package.json	/^    "license": "ISC",$/;"	s
+license	docker-nodejs/ecommerce-service/Docker/app/package.json	/^    "license": "ISC",$/;"	s
+main	docker-nodejs/delivery-service/Docker/app/package.json	/^    "main": "src\/index.js",$/;"	s
+main	docker-nodejs/ecommerce-service/Docker/app/package.json	/^    "main": "src\/index.js",$/;"	s
+makeGreeting	docker-nodejs/delivery-service/src/greeting/usecases/greeting-usecase.js	/^  async makeGreeting() {$/;"	m	class:GreetingUsecase
+makeGreeting	docker-nodejs/ecommerce-service/src/greeting/usecases/greeting-usecase.js	/^  async makeGreeting() {$/;"	m	class:GreetingUsecase
+make_greeting	docker-python/delivery-service/src/greeting/http/greeting_blueprint.py	/^    def make_greeting():        $/;"	f	function:create_greeting_blueprint	file:
+make_greeting	docker-python/delivery-service/src/greeting/usecases/greeting_usecase.py	/^    def make_greeting(self):$/;"	m	class:GreetingUsecase
+make_greeting	docker-python/ecommerce-service/src/greeting/http/greeting_blueprint.py	/^    def make_greeting():        $/;"	f	function:create_greeting_blueprint	file:
+make_greeting	docker-python/ecommerce-service/src/greeting/usecases/greeting_usecase.py	/^    def make_greeting(self):$/;"	m	class:GreetingUsecase
+manageBooksUsecase	docker-nodejs/delivery-service/src/index.js	/^const manageBooksUsecase = new ManageBooksUsecase(sequelizeBooksRepository);$/;"	C
+manageBooksUsecase	docker-nodejs/ecommerce-service/src/index.js	/^const manageBooksUsecase = new ManageBooksUsecase(sequelizeBooksRepository);$/;"	C
+manage_books_usecase	docker-python/delivery-service/src/main.py	/^manage_books_usecase = ManageBooksUsecase(firestore_books_repository)$/;"	v
+manage_books_usecase	docker-python/delivery-service/tests/books/usecases/test_manage_books_usecase.py	/^def manage_books_usecase(repository_mock):$/;"	f
+manage_books_usecase	docker-python/ecommerce-service/src/main.py	/^manage_books_usecase = ManageBooksUsecase(sqlalchemy_books_repository)$/;"	v
+manage_books_usecase	docker-python/ecommerce-service/tests/books/usecases/test_manage_books_usecase.py	/^def manage_books_usecase(repository_mock):$/;"	f
+mocha	docker-nodejs/delivery-service/Docker/app/package.json	/^      "mocha": "^8.2.1",$/;"	s	object:devDependencies
+mocha	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "mocha": "^8.2.1",$/;"	s	object:devDependencies
+monkey_patch_firestore_emulator	docker-python/delivery-service/src/frameworks/db/firestore.py	/^def monkey_patch_firestore_emulator():$/;"	f
+monkey_patch_firestore_emulator	docker-python/ecommerce-service/src/frameworks/db/firestore.py	/^def monkey_patch_firestore_emulator():$/;"	f
+mysql2	docker-nodejs/delivery-service/Docker/app/package.json	/^      "mysql2": "^2.2.5",$/;"	s	object:dependencies
+mysql2	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "mysql2": "^2.2.5",$/;"	s	object:dependencies
+name	docker-nodejs/delivery-service/Docker/app/package.json	/^    "name": "gae-node-clean-arcuitecture",$/;"	s
+name	docker-nodejs/ecommerce-service/Docker/app/package.json	/^    "name": "gae-node-clean-arcuitecture",$/;"	s
+nodemon	docker-nodejs/delivery-service/Docker/app/package.json	/^      "nodemon": "^2.0.7",$/;"	s	object:devDependencies
+nodemon	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "nodemon": "^2.0.7",$/;"	s	object:devDependencies
+options	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^      const options = {$/;"	c	class:SequelizeBooksRepository.deleteAllBooks
+options	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^    const options = {$/;"	c	class:SequelizeBooksRepository.constructor
+options	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^    const options = {$/;"	c	class:SequelizeBooksRepository.deleteBook
+options	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^    const options = {$/;"	c	class:SequelizeBooksRepository.updateBook
+options	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^      const options = {$/;"	c	class:SequelizeBooksRepository.deleteAllBooks
+options	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^    const options = {$/;"	c	class:SequelizeBooksRepository.constructor
+options	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^    const options = {$/;"	c	class:SequelizeBooksRepository.deleteBook
+options	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^    const options = {$/;"	c	class:SequelizeBooksRepository.updateBook
+pages	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^      pages: DataTypes.INTEGER,$/;"	p	class:SequelizeBooksRepository.constructor.columns
+pages	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^      "pages": 40,$/;"	p	class:AnonymousFunction9b72cb090100.AnonymousFunction9b72cb090300.data
+pages	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^      pages: DataTypes.INTEGER,$/;"	p	class:SequelizeBooksRepository.constructor.columns
+pages	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^      "pages": 40,$/;"	p	class:AnonymousFunction717093150100.AnonymousFunction717093150300.data
+primaryKey	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^        primaryKey: true,$/;"	p	class:SequelizeBooksRepository.constructor.columns.id
+primaryKey	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^        primaryKey: true,$/;"	p	class:SequelizeBooksRepository.constructor.columns.id
+private_key	docker-nodejs/delivery-service/Docker/database/firestore-account/service-account.json	/^  "private_key": "-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIB/;"	s
+private_key	docker-nodejs/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "private_key": "-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIB/;"	s
+private_key	docker-python/delivery-service/Docker/database/firestore-account/service-account.json	/^  "private_key": "-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIB/;"	s
+private_key	docker-python/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "private_key": "-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIB/;"	s
+private_key_id	docker-nodejs/delivery-service/Docker/database/firestore-account/service-account.json	/^  "private_key_id": "5f5611493dc6dd6411d11df209c32a8dda157a29",$/;"	s
+private_key_id	docker-nodejs/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "private_key_id": "5f5611493dc6dd6411d11df209c32a8dda157a29",$/;"	s
+private_key_id	docker-python/delivery-service/Docker/database/firestore-account/service-account.json	/^  "private_key_id": "5f5611493dc6dd6411d11df209c32a8dda157a29",$/;"	s
+private_key_id	docker-python/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "private_key_id": "5f5611493dc6dd6411d11df209c32a8dda157a29",$/;"	s
+project_id	docker-nodejs/delivery-service/Docker/database/firestore-account/service-account.json	/^  "project_id": "enviame-lab",$/;"	s
+project_id	docker-nodejs/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "project_id": "enviame-lab",$/;"	s
+project_id	docker-python/delivery-service/Docker/database/firestore-account/service-account.json	/^  "project_id": "enviame-lab",$/;"	s
+project_id	docker-python/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "project_id": "enviame-lab",$/;"	s
+pytest	docker-python/delivery-service/pytest.ini	/^[pytest]$/;"	s
+pytest	docker-python/ecommerce-service/pytest.ini	/^[pytest]$/;"	s
+redis	docker-nodejs/delivery-service/Docker/app/package.json	/^      "redis": "^3.0.2",$/;"	s	object:dependencies
+redis	docker-nodejs/delivery-service/src/frameworks/db/redis.js	/^const redis = require('redis');$/;"	C
+redis	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "redis": "^3.0.2",$/;"	s	object:dependencies
+redis	docker-nodejs/ecommerce-service/src/frameworks/db/redis.js	/^const redis = require('redis');$/;"	C
+redisClient	docker-nodejs/delivery-service/src/index.js	/^const redisClient = createRedisClient();$/;"	C
+redisClient	docker-nodejs/ecommerce-service/src/index.js	/^const redisClient = createRedisClient();$/;"	C
+redisGreetingCache	docker-nodejs/delivery-service/src/index.js	/^const redisGreetingCache = new RedisGreetingCache(redisClient);$/;"	C
+redisGreetingCache	docker-nodejs/ecommerce-service/src/index.js	/^const redisGreetingCache = new RedisGreetingCache(redisClient);$/;"	C
+redis_client	docker-python/delivery-service/src/main.py	/^redis_client = create_redis_client()$/;"	v
+redis_client	docker-python/ecommerce-service/src/main.py	/^redis_client = create_redis_client()$/;"	v
+redis_greeting_cache	docker-python/delivery-service/src/main.py	/^redis_greeting_cache = RedisGreetingCache(redis_client)$/;"	v
+redis_greeting_cache	docker-python/ecommerce-service/src/main.py	/^redis_greeting_cache = RedisGreetingCache(redis_client)$/;"	v
+repository	docker-python/delivery-service/tests/books/repositories/test_firestore_books_repository.py	/^def repository(client):$/;"	f
+repository	docker-python/delivery-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^def repository(client):$/;"	f
+repository	docker-python/ecommerce-service/tests/books/repositories/test_firestore_books_repository.py	/^def repository(client):$/;"	f
+repository	docker-python/ecommerce-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^def repository(client):$/;"	f
+repository_mock	docker-python/delivery-service/tests/books/usecases/test_manage_books_usecase.py	/^def repository_mock():$/;"	f
+repository_mock	docker-python/ecommerce-service/tests/books/usecases/test_manage_books_usecase.py	/^def repository_mock():$/;"	f
+response	docker-nodejs/delivery-service/src/frameworks/http/ajv.js	/^        response = {$/;"	c	class:validateSchema
+response	docker-nodejs/ecommerce-service/src/frameworks/http/ajv.js	/^        response = {$/;"	c	class:validateSchema
+routers	docker-nodejs/delivery-service/src/index.js	/^let routers = [$/;"	v
+routers	docker-nodejs/ecommerce-service/src/index.js	/^let routers = [$/;"	v
+scripts	docker-nodejs/delivery-service/Docker/app/package.json	/^    "scripts": {$/;"	o
+scripts	docker-nodejs/ecommerce-service/Docker/app/package.json	/^    "scripts": {$/;"	o
+sequelize	docker-nodejs/delivery-service/Docker/app/package.json	/^      "sequelize": "^6.6.2"$/;"	s	object:dependencies
+sequelize	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "sequelize": "^6.6.2"$/;"	s	object:dependencies
+sequelizeBooksRepository	docker-nodejs/delivery-service/src/index.js	/^const sequelizeBooksRepository = new SequelizeBooksRepository(sequelizeClient);$/;"	C
+sequelizeBooksRepository	docker-nodejs/ecommerce-service/src/index.js	/^const sequelizeBooksRepository = new SequelizeBooksRepository(sequelizeClient);$/;"	C
+sequelizeClient	docker-nodejs/delivery-service/src/index.js	/^const sequelizeClient = new SequelizeClient();$/;"	C
+sequelizeClient	docker-nodejs/ecommerce-service/src/index.js	/^const sequelizeClient = new SequelizeClient();$/;"	C
+serialize	docker-python/delivery-service/src/books/entities/book.py	/^    def serialize(self):$/;"	m	class:Book
+serialize	docker-python/ecommerce-service/src/books/entities/book.py	/^    def serialize(self):$/;"	m	class:Book
+sinon	docker-nodejs/delivery-service/Docker/app/package.json	/^      "sinon": "^10.0.1"$/;"	s	object:devDependencies
+sinon	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^const sinon = require('sinon');$/;"	C
+sinon	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "sinon": "^10.0.1"$/;"	s	object:devDependencies
+sinon	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^const sinon = require('sinon');$/;"	C
+sqlalchemy_books_repository	docker-python/delivery-service/src/main.py	/^sqlalchemy_books_repository = SQLAlchemyBooksRepository(sqlalchemy_client)$/;"	v
+sqlalchemy_books_repository	docker-python/ecommerce-service/src/main.py	/^sqlalchemy_books_repository = SQLAlchemyBooksRepository(sqlalchemy_client)$/;"	v
+sqlalchemy_client	docker-python/delivery-service/src/main.py	/^sqlalchemy_client = SQLAlchemyClient()$/;"	v
+sqlalchemy_client	docker-python/ecommerce-service/src/main.py	/^sqlalchemy_client = SQLAlchemyClient()$/;"	v
+start	docker-nodejs/delivery-service/Docker/app/package.json	/^      "start": "node src\/index.js",$/;"	s	object:scripts
+start	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "start": "node src\/index.js",$/;"	s	object:scripts
+syncDatabase	docker-nodejs/delivery-service/src/frameworks/db/sequelize.js	/^  syncDatabase() {$/;"	m	class:SequelizeClient
+syncDatabase	docker-nodejs/ecommerce-service/src/frameworks/db/sequelize.js	/^  syncDatabase() {$/;"	m	class:SequelizeClient
+syncOptions	docker-nodejs/delivery-service/src/frameworks/db/sequelize.js	/^    var syncOptions = {$/;"	c	class:SequelizeClient.syncDatabase
+syncOptions	docker-nodejs/ecommerce-service/src/frameworks/db/sequelize.js	/^    var syncOptions = {$/;"	c	class:SequelizeClient.syncDatabase
+tableName	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^      tableName: tableName,$/;"	p	class:SequelizeBooksRepository.constructor.options
+tableName	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^      tableName: tableName,$/;"	p	class:SequelizeBooksRepository.constructor.options
+test	docker-nodejs/delivery-service/Docker/app/package.json	/^      "test": "mocha tests --recursive --timeout 10000"$/;"	s	object:scripts
+test	docker-nodejs/ecommerce-service/Docker/app/package.json	/^      "test": "mocha tests --recursive --timeout 10000"$/;"	s	object:scripts
+test_create_and_get_book	docker-python/delivery-service/tests/books/repositories/test_firestore_books_repository.py	/^    def test_create_and_get_book(self, repository):$/;"	m	class:TestFirestoreBooksRepository
+test_create_and_get_book	docker-python/delivery-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^    def test_create_and_get_book(self, repository):$/;"	m	class:TestSqlAlchemyBooksRepository
+test_create_and_get_book	docker-python/ecommerce-service/tests/books/repositories/test_firestore_books_repository.py	/^    def test_create_and_get_book(self, repository):$/;"	m	class:TestFirestoreBooksRepository
+test_create_and_get_book	docker-python/ecommerce-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^    def test_create_and_get_book(self, repository):$/;"	m	class:TestSqlAlchemyBooksRepository
+test_create_book	docker-python/delivery-service/tests/books/usecases/test_manage_books_usecase.py	/^    def test_create_book(self, manage_books_usecase):$/;"	m	class:TestManageBooksUsecase
+test_create_book	docker-python/ecommerce-service/tests/books/usecases/test_manage_books_usecase.py	/^    def test_create_book(self, manage_books_usecase):$/;"	m	class:TestManageBooksUsecase
+test_delete_book	docker-python/delivery-service/tests/books/repositories/test_firestore_books_repository.py	/^    def test_delete_book(self, repository):$/;"	m	class:TestFirestoreBooksRepository
+test_delete_book	docker-python/delivery-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^    def test_delete_book(self, repository):$/;"	m	class:TestSqlAlchemyBooksRepository
+test_delete_book	docker-python/ecommerce-service/tests/books/repositories/test_firestore_books_repository.py	/^    def test_delete_book(self, repository):$/;"	m	class:TestFirestoreBooksRepository
+test_delete_book	docker-python/ecommerce-service/tests/books/repositories/test_sqlalchemy_books_repository.py	/^    def test_delete_book(self, repository):$/;"	m	class:TestSqlAlchemyBooksRepository
+test_filter_dict	docker-python/delivery-service/tests/utils/test_utils.py	/^    def test_filter_dict(self):$/;"	m	class:TestUtils
+test_filter_dict	docker-python/ecommerce-service/tests/utils/test_utils.py	/^    def test_filter_dict(self):$/;"	m	class:TestUtils
+test_format_date	docker-python/delivery-service/tests/utils/test_utils.py	/^    def test_format_date(self):$/;"	m	class:TestUtils
+test_format_date	docker-python/ecommerce-service/tests/utils/test_utils.py	/^    def test_format_date(self):$/;"	m	class:TestUtils
+test_from_dict	docker-python/delivery-service/tests/books/entities/test_book.py	/^    def test_from_dict(self):$/;"	m	class:TestBook
+test_from_dict	docker-python/ecommerce-service/tests/books/entities/test_book.py	/^    def test_from_dict(self):$/;"	m	class:TestBook
+test_get_books	docker-python/delivery-service/tests/books/usecases/test_manage_books_usecase.py	/^    def test_get_books(self, manage_books_usecase):$/;"	m	class:TestManageBooksUsecase
+test_get_books	docker-python/ecommerce-service/tests/books/usecases/test_manage_books_usecase.py	/^    def test_get_books(self, manage_books_usecase):$/;"	m	class:TestManageBooksUsecase
+test_serialize	docker-python/delivery-service/tests/books/entities/test_book.py	/^    def test_serialize(self):$/;"	m	class:TestBook
+test_serialize	docker-python/ecommerce-service/tests/books/entities/test_book.py	/^    def test_serialize(self):$/;"	m	class:TestBook
+test_to_dict	docker-python/delivery-service/tests/books/entities/test_book.py	/^    def test_to_dict(self):$/;"	m	class:TestBook
+test_to_dict	docker-python/ecommerce-service/tests/books/entities/test_book.py	/^    def test_to_dict(self):$/;"	m	class:TestBook
+testpaths	docker-python/delivery-service/pytest.ini	/^testpaths = tests\/$/;"	k	section:pytest
+testpaths	docker-python/ecommerce-service/pytest.ini	/^testpaths = tests\/$/;"	k	section:pytest
+timestamps	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^      timestamps: false,$/;"	p	class:SequelizeBooksRepository.constructor.options
+timestamps	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^      timestamps: false,$/;"	p	class:SequelizeBooksRepository.constructor.options
+title	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^      title: DataTypes.STRING,$/;"	p	class:SequelizeBooksRepository.constructor.columns
+title	docker-nodejs/delivery-service/tests/books/usecases/test-manage-books-usecase.js	/^      "title": "test-title",$/;"	p	class:AnonymousFunction9b72cb090100.AnonymousFunction9b72cb090300.data
+title	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^      title: DataTypes.STRING,$/;"	p	class:SequelizeBooksRepository.constructor.columns
+title	docker-nodejs/ecommerce-service/tests/books/usecases/test-manage-books-usecase.js	/^      "title": "test-title",$/;"	p	class:AnonymousFunction717093150100.AnonymousFunction717093150300.data
+to_dict	docker-python/delivery-service/src/books/entities/book.py	/^    def to_dict(self):$/;"	m	class:Book
+to_dict	docker-python/ecommerce-service/src/books/entities/book.py	/^    def to_dict(self):$/;"	m	class:Book
+token_uri	docker-nodejs/delivery-service/Docker/database/firestore-account/service-account.json	/^  "token_uri": "https:\/\/oauth2.googleapis.com\/token",$/;"	s
+token_uri	docker-nodejs/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "token_uri": "https:\/\/oauth2.googleapis.com\/token",$/;"	s
+token_uri	docker-python/delivery-service/Docker/database/firestore-account/service-account.json	/^  "token_uri": "https:\/\/oauth2.googleapis.com\/token",$/;"	s
+token_uri	docker-python/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "token_uri": "https:\/\/oauth2.googleapis.com\/token",$/;"	s
+truncate	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^        truncate: true$/;"	p	class:SequelizeBooksRepository.deleteAllBooks.options
+truncate	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^        truncate: true$/;"	p	class:SequelizeBooksRepository.deleteAllBooks.options
+type	docker-nodejs/delivery-service/Docker/database/firestore-account/service-account.json	/^  "type": "service_account",$/;"	s
+type	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^        type: DataTypes.INTEGER,$/;"	p	class:SequelizeBooksRepository.constructor.columns.id
+type	docker-nodejs/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "type": "service_account",$/;"	s
+type	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^        type: DataTypes.INTEGER,$/;"	p	class:SequelizeBooksRepository.constructor.columns.id
+type	docker-python/delivery-service/Docker/database/firestore-account/service-account.json	/^  "type": "service_account",$/;"	s
+type	docker-python/ecommerce-service/Docker/database/firestore-account/service-account.json	/^  "type": "service_account",$/;"	s
+updateBook	docker-nodejs/delivery-service/src/books/repositories/firestore-books-repository.js	/^  async updateBook(book) {$/;"	m	class:FirestoreBooksRepository
+updateBook	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^  async updateBook(book) {$/;"	m	class:SequelizeBooksRepository
+updateBook	docker-nodejs/delivery-service/src/books/usecases/manage-books-usecase.js	/^  async updateBook(id, data) {$/;"	m	class:ManageBooksUsecase
+updateBook	docker-nodejs/ecommerce-service/src/books/repositories/firestore-books-repository.js	/^  async updateBook(book) {$/;"	m	class:FirestoreBooksRepository
+updateBook	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^  async updateBook(book) {$/;"	m	class:SequelizeBooksRepository
+updateBook	docker-nodejs/ecommerce-service/src/books/usecases/manage-books-usecase.js	/^  async updateBook(id, data) {$/;"	m	class:ManageBooksUsecase
+update_book	docker-python/delivery-service/src/books/http/books_blueprint.py	/^    def update_book(book_id):$/;"	f	function:create_books_blueprint	file:
+update_book	docker-python/delivery-service/src/books/repositories/firestore_books_repository.py	/^    def update_book(self, book_id, fields):$/;"	m	class:FirestoreBooksRepository
+update_book	docker-python/delivery-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def update_book(self, id, fields):$/;"	m	class:SQLAlchemyBooksRepository
+update_book	docker-python/delivery-service/src/books/usecases/manage_books_usecase.py	/^    def update_book(self, book_id, data):$/;"	m	class:ManageBooksUsecase
+update_book	docker-python/ecommerce-service/src/books/http/books_blueprint.py	/^    def update_book(book_id):$/;"	f	function:create_books_blueprint	file:
+update_book	docker-python/ecommerce-service/src/books/repositories/firestore_books_repository.py	/^    def update_book(self, book_id, fields):$/;"	m	class:FirestoreBooksRepository
+update_book	docker-python/ecommerce-service/src/books/repositories/sqlalchemy_books_repository.py	/^    def update_book(self, id, fields):$/;"	m	class:SQLAlchemyBooksRepository
+update_book	docker-python/ecommerce-service/src/books/usecases/manage_books_usecase.py	/^    def update_book(self, book_id, data):$/;"	m	class:ManageBooksUsecase
+validateSchema	docker-nodejs/delivery-service/src/books/http/books-router.js	/^const validateSchema = require(appRoot + "\/src\/frameworks\/http\/ajv");$/;"	C
+validateSchema	docker-nodejs/delivery-service/src/frameworks/http/ajv.js	/^function validateSchema(schema, req){$/;"	f
+validateSchema	docker-nodejs/ecommerce-service/src/books/http/books-router.js	/^const validateSchema = require(appRoot + "\/src\/frameworks\/http\/ajv");$/;"	C
+validateSchema	docker-nodejs/ecommerce-service/src/frameworks/http/ajv.js	/^function validateSchema(schema, req){$/;"	f
+version	docker-nodejs/delivery-service/Docker/app/package.json	/^    "version": "1.0.0",$/;"	s
+version	docker-nodejs/ecommerce-service/Docker/app/package.json	/^    "version": "1.0.0",$/;"	s
+where	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^      where: {$/;"	c	class:SequelizeBooksRepository.deleteBook.options
+where	docker-nodejs/delivery-service/src/books/repositories/sequelize-books-repository.js	/^      where: {$/;"	c	class:SequelizeBooksRepository.updateBook.options
+where	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^      where: {$/;"	c	class:SequelizeBooksRepository.deleteBook.options
+where	docker-nodejs/ecommerce-service/src/books/repositories/sequelize-books-repository.js	/^      where: {$/;"	c	class:SequelizeBooksRepository.updateBook.options
